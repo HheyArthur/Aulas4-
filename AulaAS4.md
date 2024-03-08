@@ -1,5 +1,7 @@
 Aula As Design Patterns
 
+Singletown
+
 O que é Design Patterns ou Padroes de projetos?
 São tecnica de resolução de problemas feito de um modo padronizado. construção do software, resumindo codar da forma "correta".
 
@@ -115,6 +117,17 @@ public class Cenario {
 
 Escreva um método configuracoes que deve exibir uma mensagem. Esse método deve ser invocado pela instância dentro da classe Cenario. 
 Utilizando o padrão Lazy Singleton, escreva uma classe que controle a quantidade de instâncias. Considere ter, no máximo, três instâncias.
+
+
+Aula Strategy
+Focado em Escabilidade e manutenibilidade - e ele trabalha dentro do objeto
+preferir usar interface ao inves de classe abstrata
+
+intercambiavel = polimorfismo
+
+o que é java Enum?
+é uma lista de constantes onde exemplo dos estados.Constante tudo maior
+
 
 
 
