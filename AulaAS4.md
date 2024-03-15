@@ -128,6 +128,12 @@ intercambiavel = polimorfismo
 o que é java Enum?
 é uma lista de constantes onde exemplo dos estados.Constante tudo maior
 
+Padrao composite
+
+Composicao = container; folha = elemento basico, exemplo do html para explica composicao a onde os elementos vao entrando na div e etc.
+
+
+
 
 
 
