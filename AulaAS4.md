@@ -132,10 +132,12 @@ Padrao composite
 
 Composicao = container; folha = elemento basico, exemplo do html para explica composicao a onde os elementos vao entrando na div e etc.
 
+factory met
 
 
-
-
+metodo de instancia nao tem static ex: public static void 
+metodo de classe chamamos ele pelo nome da classe.
+ 
 
 
 
