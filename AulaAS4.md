@@ -140,5 +140,7 @@ metodo de classe chamamos ele pelo nome da classe.
  
 
 
-
+Facade
+Esconde a complexidade, dimunuindo a dependencia centralizando em um lugar so
+Um ponto de acesso unico (uma interface de facil entendimento subsistema) para ser o meio de campo entre o sistema e o subsistema
 
